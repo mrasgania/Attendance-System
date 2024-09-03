@@ -6,7 +6,7 @@ A full stack MERN application which uses face-api.js to detect faces and mark at
 
 ## Authors
 
-- Devansh Saini, Department of Ocean Engineering, IIT Madras
+- Mayank Rasgania, Department of Ocean Engineering, IIT Madras
 
 
 ## Installation
@@ -42,22 +42,6 @@ To start the project
   npm run dev
 ```
 
-
-## Screenshots
-
-![App Screenshot](https://github.com/devansh7061/image/blob/main/Screenshot%20(153).png?raw=true)
-
-![App Screenshot](https://github.com/devansh7061/image/blob/main/Screenshot%20(154).png?raw=true)
-
-![App Screenshot](https://github.com/devansh7061/image/blob/main/Screenshot%20(155).png?raw=true)
-
-![App Screenshot](https://github.com/devansh7061/image/blob/main/Screenshot%20(156).png?raw=true)
-
-![App Screenshot](https://github.com/devansh7061/image/blob/main/Screenshot%20(157).png?raw=true)
-
-![App Screenshot](https://github.com/devansh7061/image/blob/main/Screenshot%20(158).png?raw=true)
-
-![App Screenshot](https://github.com/devansh7061/image/blob/main/Screenshot%20(159).png?raw=true)
 
 
 ## Acknowledgements
