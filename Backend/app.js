@@ -28,7 +28,7 @@ app.use("/viewRecord", recordRouter)
 const PORT = process.env.PORT || 5000;
 app.set("PORT", PORT);
 const CONNECTION_URL =
-  "mongodb://na20b016:na20b016@ac-6vjuoyv-shard-00-00.l14ovvg.mongodb.net:27017,ac-6vjuoyv-shard-00-01.l14ovvg.mongodb.net:27017,ac-6vjuoyv-shard-00-02.l14ovvg.mongodb.net:27017/?ssl=true&replicaSet=atlas-iqdlsi-shard-0&authSource=admin&retryWrites=true&w=majority";
+  "mongodb+srv://na20b036:e5nkLG6epFyCBbmx@cluster0.8nri2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0;
 mongoose
   .connect(CONNECTION_URL, {
     useNewUrlParser: true,
